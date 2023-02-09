@@ -4,11 +4,6 @@ Hi! My name is Kelvin Matheka
 Front-end Developer
 ---------
 
-Kelvin is a React.js Developer, Professional video editor and 3d Animator
-
-* 🌍  I'm based in Kenya
-* ✉️  You can contact me at [kelvinmatheka321@gmail.com](mailto:kelvinmatheka321@gmail.com)
-* 🧠  I'm learning everything Javascript and react.js
 * 🤝  I'm open to collaborating on front-end web applications based on Javascript and React.js framework, HTML, Bootstrap, Tailwind css and Css
 
 
