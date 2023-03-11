@@ -31,10 +31,9 @@ Portfolio: https://beingkelvin.netlify.app/
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
+![giphy1](https://user-images.githubusercontent.com/110156045/224490043-5eda5583-981a-4047-89bb-1ab3d695093d.gif)
 
 <b>My GitHub Stats</b>
-
 
 
 
