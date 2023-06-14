@@ -1,11 +1,8 @@
 Hi 👋 My name is Kelvin Matheka
 ===============================
 
-Backend Developer
+FrontEnd Developer
 -----------------
-
-.Adept at collaborating with cross-functional teams and possessing a deep understanding of backend technologies
-
 * ✉️  You can contact me at [kelvinmatheka321@gmail.com](mailto:kelvinmatheka321@gmail.com)
 * 🤝  I'm open to collaborating on Backend based projects
 
