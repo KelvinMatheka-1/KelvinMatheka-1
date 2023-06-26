@@ -4,7 +4,6 @@ Hi 👋 My name is Kelvin Matheka
 FrontEnd Developer
 -----------------
 * ✉️  You can contact me at [kelvinmatheka321@gmail.com](mailto:kelvinmatheka321@gmail.com)
-* 🤝  I'm open to collaborating on Backend based projects
 
 ### Skills
 
